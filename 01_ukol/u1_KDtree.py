@@ -1,3 +1,4 @@
+# omlouváme se za lehce opožděné odevzdání, všiml jsem si chyby ve výpočtu tudíž jsem pdf i tento skript přenahrál znovu
 # AI usage: Google Gemini for algorithm consultation and debugging
 
 # ACCELERATED SEARCH USING A KD-TREE
